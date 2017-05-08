@@ -7,8 +7,6 @@ using Microsoft.Extensions.Logging;
 using System.Globalization;
 using StructureMap;
 using System.IO;
-using Tavisca.Platform.Common;
-using Tavisca.Platform.Common.ExceptionManagement;
 
 namespace Travel.Connectors.Hotel
 {
@@ -20,9 +18,9 @@ namespace Travel.Connectors.Hotel
         {
             _env = env;
             var builder = new ConfigurationBuilder()
-                .SetBasePath(Directory.GetCurrentDirectory())
-                .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
-                .AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: true)
+                //.SetBasePath(Directory.GetCurrentDirectory())
+                //.AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
+                //.AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: true)
                 .AddEnvironmentVariables();
             Configuration = builder.Build();
         }

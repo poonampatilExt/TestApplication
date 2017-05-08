@@ -1,7 +1,5 @@
 ﻿using StructureMap;
-using Tavisca.Platform.Common.Logging;
 using System;
-using Tavisca.Platform.Common.ExceptionManagement;
 
 namespace Travel.Connectors.Hotel
 {
