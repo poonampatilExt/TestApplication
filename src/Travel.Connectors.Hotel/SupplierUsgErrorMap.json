@@ -1,0 +1,486 @@
+﻿{
+  "ErrorMap": [
+    {
+      "UsgErrorCode": "3",
+      "GetARoomErrorCode": "383",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "5",
+      "GetARoomErrorCode": "381",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "5",
+      "GetARoomErrorCode": "382",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "6",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "500",
+      "ErrorCategory": "ServerSide",
+      "ErrorType": "SystemException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "7",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "12",
+      "GetARoomErrorCode": "500",
+      "HttpStatusCode": "500",
+      "ErrorCategory": "ServerSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "12",
+      "GetARoomErrorCode": "500",
+      "HttpStatusCode": "500",
+      "ErrorCategory": "ServerSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "13",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "200",
+      "ErrorCategory": "Warning",
+      "ErrorType": "ContentNotFoundException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "14",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "502",
+      "ErrorCategory": "ServerSide",
+      "ErrorType": "CommunicationException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "15",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "502",
+      "ErrorCategory": "ServerSide",
+      "ErrorType": "CommunicationException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "18",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "19",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "20",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "21",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "22",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "23",
+      "GetARoomErrorCode": "381",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "24",
+      "GetARoomErrorCode": "15",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "25",
+      "GetARoomErrorCode": "15",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "27",
+      "GetARoomErrorCode": "321",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "29",
+      "GetARoomErrorCode": "321",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "30",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "31",
+      "GetARoomErrorCode": "321",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "32",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "504",
+      "ErrorCategory": "ServerSide",
+      "ErrorType": "CommunicationException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "41",
+      "GetARoomErrorCode": "401",
+      "HttpStatusCode": "401",
+      "ErrorCategory": "ServerSide",
+      "ErrorType": "CommunicationException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "34",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "500",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "35",
+      "GetARoomErrorCode": "382",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "37",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "38",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "41",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "43",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "52",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "500",
+      "ErrorCategory": "ServerSide",
+      "ErrorType": "SystemException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "64",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "65",
+      "GetARoomErrorCode": "321",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "69",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "500",
+      "ErrorCategory": "ServerSide",
+      "ErrorType": "SystemException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "70",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "500",
+      "ErrorCategory": "ServerSide",
+      "ErrorType": "SystemException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "72",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "500",
+      "ErrorCategory": "ServerSide",
+      "ErrorType": "SystemException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "73",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "500",
+      "ErrorCategory": "ServerSide",
+      "ErrorType": "CommunicationException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "74",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "500",
+      "ErrorCategory": "ServerSide",
+      "ErrorType": "CommunicationException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "89",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "200",
+      "ErrorCategory": "Warning",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "92",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "93",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "129",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "131",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "133",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "249",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "326",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "327",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "470",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "471",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "497",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "581",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "620",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "500",
+      "ErrorCategory": "ServerSide",
+      "ErrorType": "SystemException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "621",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "500",
+      "ErrorCategory": "ServerSide",
+      "ErrorType": "SystemException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "479",
+      "GetARoomErrorCode": "361",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "117",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+
+    {
+      "UsgErrorCode": "251",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "51",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "447",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "325",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    },
+    {
+      "UsgErrorCode": "55",
+      "GetARoomErrorCode": "0",
+      "HttpStatusCode": "400",
+      "ErrorCategory": "ClientSide",
+      "ErrorType": "BadRequestException",
+      "Tag": "Hotel"
+    }
+  ]
+}
+

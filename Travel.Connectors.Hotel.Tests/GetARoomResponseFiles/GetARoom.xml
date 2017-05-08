@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="UTF-8"?><room-stays xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" transaction-id="2193a3d5-f844-42a9-9c99-8ab5d790240b">
+  <request>
+    <check-in>05/07/2017</check-in>
+    <check-out>05/12/2017</check-out>
+    <rooms>1</rooms>
+    <adults>1</adults>
+    <children>0</children>
+    <currency>USD</currency>
+  </request>
+  <status>
+    <success/>
+    <cache-hints/>
+  </status>
+  <room-stay>
+    <room>
+      <hotel-id>d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8</hotel-id>
+      <room-id>d792d2f3-404f-505f-9fff-7d6bf58e7cd0</room-id>
+      <title xml:lang="en">Run of House</title>
+      <description/>
+    </room>
+    <commission-tier>3</commission-tier>
+    <sale>false</sale>
+    <promotional-text xsi:nil="true"/>
+    <promotion-details xsi:nil="true"/>
+    <value-adds>
+      <value-add>
+        <code>free_cancellation</code>
+        <name xml:lang="en">Free Cancellation</name>
+      </value-add>
+    </value-adds>
+    <rooms-left xsi:nil="true"/>
+    <timed-pressure-sell xsi:nil="true"/>
+    <expires-at xsi:nil="true"/>
+    <restrictions xsi:nil="true"/>
+    <geo-restrictions xsi:nil="true"/>
+    <lowest-average>25.39</lowest-average>
+    <fees-collected-at-property>
+      <fee>
+        <name xml:lang="en">Resort Fee per Night</name>
+        <amount>24.00</amount>
+        <total>120.00</total>
+        <currency>USD</currency>
+        <description xsi:nil="true"/>
+      </fee>
+    </fees-collected-at-property>
+    <display-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>126.95</subtotal>
+      <taxes>56.95</taxes>
+      <fees>0.00</fees>
+      <total>183.90</total>
+      <lowest-average>25.39</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>25.39</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>25.39</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>25.39</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>25.39</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>25.39</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </display-pricing>
+    <booking-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>126.95</subtotal>
+      <taxes>56.95</taxes>
+      <fees>0.00</fees>
+      <total>183.90</total>
+      <lowest-average>25.39</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>25.39</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>25.39</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>25.39</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>25.39</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>25.39</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </booking-pricing>
+    <rate-plan-type>unpublished2</rate-plan-type>
+    <rate-plan-code>1,4d2b3f017463ac2d90000003,dee2544c88b8a98a01351c0ca556550ef9b938a4</rate-plan-code>
+    <landing-url>http://www.integration2.testaroom.com/hotels/d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8?affiliate=6dcb11d2&amp;check_in=05/07/2017&amp;check_out=05/12/2017&amp;currency=USD&amp;price_code=299ce1a4e5&amp;rate_code=60bca9e5da&amp;rinfo=%5B%5B18%5D%5D</landing-url>
+  </room-stay>
+  <room-stay>
+    <room>
+      <hotel-id>d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8</hotel-id>
+      <room-id>ea646585-d2ec-559a-a13e-2b6eab5d7595</room-id>
+      <title xml:lang="en">Leisure Run of House</title>
+      <description/>
+    </room>
+    <commission-tier>3</commission-tier>
+    <sale>false</sale>
+    <promotional-text xsi:nil="true"/>
+    <promotion-details xsi:nil="true"/>
+    <value-adds>
+      <value-add>
+        <code>free_cancellation</code>
+        <name xml:lang="en">Free Cancellation</name>
+      </value-add>
+    </value-adds>
+    <rooms-left xsi:nil="true"/>
+    <timed-pressure-sell xsi:nil="true"/>
+    <expires-at xsi:nil="true"/>
+    <restrictions xsi:nil="true"/>
+    <geo-restrictions xsi:nil="true"/>
+    <lowest-average>27.26</lowest-average>
+    <fees-collected-at-property>
+      <fee>
+        <name xml:lang="en">Resort Fee per Night</name>
+        <amount>24.00</amount>
+        <total>120.00</total>
+        <currency>USD</currency>
+        <description xsi:nil="true"/>
+      </fee>
+    </fees-collected-at-property>
+    <display-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>136.30</subtotal>
+      <taxes>58.20</taxes>
+      <fees>0.00</fees>
+      <total>194.50</total>
+      <lowest-average>27.26</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>27.26</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>27.26</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>27.26</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>27.26</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>27.26</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </display-pricing>
+    <booking-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>136.30</subtotal>
+      <taxes>58.20</taxes>
+      <fees>0.00</fees>
+      <total>194.50</total>
+      <lowest-average>27.26</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>27.26</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>27.26</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>27.26</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>27.26</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>27.26</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </booking-pricing>
+    <rate-plan-type>unpublished2</rate-plan-type>
+    <rate-plan-code>1,4d2b3f017463ac2d90000003,f419c655d6b964d648b4f3fcfd4baeb68ceded16</rate-plan-code>
+    <landing-url>http://www.integration2.testaroom.com/hotels/d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8?affiliate=6dcb11d2&amp;check_in=05/07/2017&amp;check_out=05/12/2017&amp;currency=USD&amp;price_code=6baac8ef7f&amp;rate_code=604b171f2f&amp;rinfo=%5B%5B18%5D%5D</landing-url>
+  </room-stay>
+  <room-stay>
+    <room>
+      <hotel-id>d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8</hotel-id>
+      <room-id>d11f0e60-e4c2-53de-8354-b90feda68151</room-id>
+      <title xml:lang="en">Manor Motor Lodge Deluxe Queen Room</title>
+      <description/>
+    </room>
+    <commission-tier>3</commission-tier>
+    <sale>false</sale>
+    <promotional-text xsi:nil="true"/>
+    <promotion-details xsi:nil="true"/>
+    <value-adds>
+      <value-add>
+        <code>free_cancellation</code>
+        <name xml:lang="en">Free Cancellation</name>
+      </value-add>
+    </value-adds>
+    <rooms-left xsi:nil="true"/>
+    <timed-pressure-sell xsi:nil="true"/>
+    <expires-at xsi:nil="true"/>
+    <restrictions xsi:nil="true"/>
+    <geo-restrictions xsi:nil="true"/>
+    <lowest-average>28.06</lowest-average>
+    <fees-collected-at-property>
+      <fee>
+        <name xml:lang="en">Resort Fee per Night</name>
+        <amount>24.00</amount>
+        <total>120.00</total>
+        <currency>USD</currency>
+        <description xsi:nil="true"/>
+      </fee>
+    </fees-collected-at-property>
+    <display-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>140.30</subtotal>
+      <taxes>58.75</taxes>
+      <fees>0.00</fees>
+      <total>199.05</total>
+      <lowest-average>28.06</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>28.06</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>28.06</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>28.06</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>28.06</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>28.06</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </display-pricing>
+    <booking-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>140.30</subtotal>
+      <taxes>58.75</taxes>
+      <fees>0.00</fees>
+      <total>199.05</total>
+      <lowest-average>28.06</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>28.06</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>28.06</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>28.06</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>28.06</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>28.06</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </booking-pricing>
+    <rate-plan-type>unpublished2</rate-plan-type>
+    <rate-plan-code>1,4d2b3f017463ac2d90000003,ffd6c89ec9e90889b9883f91c651b1e95a44eaae</rate-plan-code>
+    <landing-url>http://www.integration2.testaroom.com/hotels/d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8?affiliate=6dcb11d2&amp;check_in=05/07/2017&amp;check_out=05/12/2017&amp;currency=USD&amp;price_code=bfd6830036&amp;rate_code=510996f343&amp;rinfo=%5B%5B18%5D%5D</landing-url>
+  </room-stay>
+  <room-stay>
+    <room>
+      <hotel-id>d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8</hotel-id>
+      <room-id>4847ff69-364b-5df0-a371-8f1ce95ddb1d</room-id>
+      <title xml:lang="en">Leisure Manor Motor Lodge Deluxe Queen Room</title>
+      <description/>
+    </room>
+    <commission-tier>3</commission-tier>
+    <sale>false</sale>
+    <promotional-text xsi:nil="true"/>
+    <promotion-details xsi:nil="true"/>
+    <value-adds>
+      <value-add>
+        <code>free_cancellation</code>
+        <name xml:lang="en">Free Cancellation</name>
+      </value-add>
+    </value-adds>
+    <rooms-left xsi:nil="true"/>
+    <timed-pressure-sell xsi:nil="true"/>
+    <expires-at xsi:nil="true"/>
+    <restrictions xsi:nil="true"/>
+    <geo-restrictions xsi:nil="true"/>
+    <lowest-average>29.51</lowest-average>
+    <fees-collected-at-property>
+      <fee>
+        <name xml:lang="en">Resort Fee per Night</name>
+        <amount>24.00</amount>
+        <total>120.00</total>
+        <currency>USD</currency>
+        <description xsi:nil="true"/>
+      </fee>
+    </fees-collected-at-property>
+    <display-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>147.55</subtotal>
+      <taxes>59.80</taxes>
+      <fees>0.00</fees>
+      <total>207.35</total>
+      <lowest-average>29.51</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>29.51</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>29.51</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>29.51</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>29.51</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>29.51</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </display-pricing>
+    <booking-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>147.55</subtotal>
+      <taxes>59.80</taxes>
+      <fees>0.00</fees>
+      <total>207.35</total>
+      <lowest-average>29.51</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>29.51</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>29.51</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>29.51</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>29.51</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>29.51</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </booking-pricing>
+    <rate-plan-type>unpublished2</rate-plan-type>
+    <rate-plan-code>1,4d2b3f017463ac2d90000003,c2576e3c77320f04df95ba943adb921e632106fc</rate-plan-code>
+    <landing-url>http://www.integration2.testaroom.com/hotels/d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8?affiliate=6dcb11d2&amp;check_in=05/07/2017&amp;check_out=05/12/2017&amp;currency=USD&amp;price_code=4873690c02&amp;rate_code=cb62dd40e4&amp;rinfo=%5B%5B18%5D%5D</landing-url>
+  </room-stay>
+  <room-stay>
+    <room>
+      <hotel-id>d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8</hotel-id>
+      <room-id>4ccd0c6d-486a-5bcc-8fae-aa6b38b96d41</room-id>
+      <title xml:lang="en">Skyrise Tower Deluxe Queen</title>
+      <description/>
+    </room>
+    <commission-tier>3</commission-tier>
+    <sale>false</sale>
+    <promotional-text xsi:nil="true"/>
+    <promotion-details xsi:nil="true"/>
+    <value-adds>
+      <value-add>
+        <code>free_cancellation</code>
+        <name xml:lang="en">Free Cancellation</name>
+      </value-add>
+    </value-adds>
+    <rooms-left xsi:nil="true"/>
+    <timed-pressure-sell xsi:nil="true"/>
+    <expires-at xsi:nil="true"/>
+    <restrictions xsi:nil="true"/>
+    <geo-restrictions xsi:nil="true"/>
+    <lowest-average>30.74</lowest-average>
+    <fees-collected-at-property>
+      <fee>
+        <name xml:lang="en">Resort Fee per Night</name>
+        <amount>24.00</amount>
+        <total>120.00</total>
+        <currency>USD</currency>
+        <description xsi:nil="true"/>
+      </fee>
+    </fees-collected-at-property>
+    <display-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>153.70</subtotal>
+      <taxes>60.55</taxes>
+      <fees>0.00</fees>
+      <total>214.25</total>
+      <lowest-average>30.74</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </display-pricing>
+    <booking-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>153.70</subtotal>
+      <taxes>60.55</taxes>
+      <fees>0.00</fees>
+      <total>214.25</total>
+      <lowest-average>30.74</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </booking-pricing>
+    <rate-plan-type>unpublished2</rate-plan-type>
+    <rate-plan-code>1,4d2b3f017463ac2d90000003,198efc8dcf8ca2931505897c3c631b0a1dd20a2c</rate-plan-code>
+    <landing-url>http://www.integration2.testaroom.com/hotels/d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8?affiliate=6dcb11d2&amp;check_in=05/07/2017&amp;check_out=05/12/2017&amp;currency=USD&amp;price_code=c584873778&amp;rate_code=643f59493b&amp;rinfo=%5B%5B18%5D%5D</landing-url>
+  </room-stay>
+  <room-stay>
+    <room>
+      <hotel-id>d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8</hotel-id>
+      <room-id>16205c06-c5ca-5385-86e7-455ccaf7ff59</room-id>
+      <title xml:lang="en">West Tower Deluxe Room</title>
+      <description/>
+    </room>
+    <commission-tier>3</commission-tier>
+    <sale>false</sale>
+    <promotional-text xsi:nil="true"/>
+    <promotion-details xsi:nil="true"/>
+    <value-adds>
+      <value-add>
+        <code>free_cancellation</code>
+        <name xml:lang="en">Free Cancellation</name>
+      </value-add>
+    </value-adds>
+    <rooms-left xsi:nil="true"/>
+    <timed-pressure-sell xsi:nil="true"/>
+    <expires-at xsi:nil="true"/>
+    <restrictions xsi:nil="true"/>
+    <geo-restrictions xsi:nil="true"/>
+    <lowest-average>30.74</lowest-average>
+    <fees-collected-at-property>
+      <fee>
+        <name xml:lang="en">Resort Fee per Night</name>
+        <amount>24.00</amount>
+        <total>120.00</total>
+        <currency>USD</currency>
+        <description xsi:nil="true"/>
+      </fee>
+    </fees-collected-at-property>
+    <display-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>153.70</subtotal>
+      <taxes>60.55</taxes>
+      <fees>0.00</fees>
+      <total>214.25</total>
+      <lowest-average>30.74</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </display-pricing>
+    <booking-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>153.70</subtotal>
+      <taxes>60.55</taxes>
+      <fees>0.00</fees>
+      <total>214.25</total>
+      <lowest-average>30.74</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>30.74</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </booking-pricing>
+    <rate-plan-type>unpublished2</rate-plan-type>
+    <rate-plan-code>1,4d2b3f017463ac2d90000003,d8a3fd69110dd65ff9b08f434fdbe74c86d24262</rate-plan-code>
+    <landing-url>http://www.integration2.testaroom.com/hotels/d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8?affiliate=6dcb11d2&amp;check_in=05/07/2017&amp;check_out=05/12/2017&amp;currency=USD&amp;price_code=c584873778&amp;rate_code=9fb03e7cfb&amp;rinfo=%5B%5B18%5D%5D</landing-url>
+  </room-stay>
+  <room-stay>
+    <room>
+      <hotel-id>d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8</hotel-id>
+      <room-id>8ed2e936-1781-5e99-81b6-567253deeea0</room-id>
+      <title xml:lang="en">Casino Tower Deluxe Room</title>
+      <description/>
+    </room>
+    <commission-tier>3</commission-tier>
+    <sale>false</sale>
+    <promotional-text xsi:nil="true"/>
+    <promotion-details xsi:nil="true"/>
+    <value-adds>
+      <value-add>
+        <code>free_cancellation</code>
+        <name xml:lang="en">Free Cancellation</name>
+      </value-add>
+    </value-adds>
+    <rooms-left xsi:nil="true"/>
+    <timed-pressure-sell xsi:nil="true"/>
+    <expires-at xsi:nil="true"/>
+    <restrictions xsi:nil="true"/>
+    <geo-restrictions xsi:nil="true"/>
+    <lowest-average>34.75</lowest-average>
+    <fees-collected-at-property>
+      <fee>
+        <name xml:lang="en">Resort Fee per Night</name>
+        <amount>24.00</amount>
+        <total>120.00</total>
+        <currency>USD</currency>
+        <description xsi:nil="true"/>
+      </fee>
+    </fees-collected-at-property>
+    <display-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>173.75</subtotal>
+      <taxes>63.20</taxes>
+      <fees>0.00</fees>
+      <total>236.95</total>
+      <lowest-average>34.75</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </display-pricing>
+    <booking-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>173.75</subtotal>
+      <taxes>63.20</taxes>
+      <fees>0.00</fees>
+      <total>236.95</total>
+      <lowest-average>34.75</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </booking-pricing>
+    <rate-plan-type>unpublished2</rate-plan-type>
+    <rate-plan-code>1,4d2b3f017463ac2d90000003,86e7b6eeedd82d647f9ad3d674b7d3fa86586399</rate-plan-code>
+    <landing-url>http://www.integration2.testaroom.com/hotels/d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8?affiliate=6dcb11d2&amp;check_in=05/07/2017&amp;check_out=05/12/2017&amp;currency=USD&amp;price_code=3190571d3c&amp;rate_code=769e7f370a&amp;rinfo=%5B%5B18%5D%5D</landing-url>
+  </room-stay>
+  <room-stay>
+    <room>
+      <hotel-id>d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8</hotel-id>
+      <room-id>69102a4b-e57d-5950-b7cf-fd31835ebdaa</room-id>
+      <title xml:lang="en">Leisure Skyrise Tower Deluxe Queen</title>
+      <description/>
+    </room>
+    <commission-tier>3</commission-tier>
+    <sale>false</sale>
+    <promotional-text xsi:nil="true"/>
+    <promotion-details xsi:nil="true"/>
+    <value-adds>
+      <value-add>
+        <code>free_cancellation</code>
+        <name xml:lang="en">Free Cancellation</name>
+      </value-add>
+    </value-adds>
+    <rooms-left xsi:nil="true"/>
+    <timed-pressure-sell xsi:nil="true"/>
+    <expires-at xsi:nil="true"/>
+    <restrictions xsi:nil="true"/>
+    <geo-restrictions xsi:nil="true"/>
+    <lowest-average>35.20</lowest-average>
+    <fees-collected-at-property>
+      <fee>
+        <name xml:lang="en">Resort Fee per Night</name>
+        <amount>24.00</amount>
+        <total>120.00</total>
+        <currency>USD</currency>
+        <description xsi:nil="true"/>
+      </fee>
+    </fees-collected-at-property>
+    <display-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>176.00</subtotal>
+      <taxes>63.55</taxes>
+      <fees>0.00</fees>
+      <total>239.55</total>
+      <lowest-average>35.20</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>35.20</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>35.20</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>35.20</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>35.20</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>35.20</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </display-pricing>
+    <booking-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>176.00</subtotal>
+      <taxes>63.55</taxes>
+      <fees>0.00</fees>
+      <total>239.55</total>
+      <lowest-average>35.20</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>35.20</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>35.20</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>35.20</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>35.20</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>35.20</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </booking-pricing>
+    <rate-plan-type>unpublished2</rate-plan-type>
+    <rate-plan-code>1,4d2b3f017463ac2d90000003,f596a7b2df381d9501d81631085e2324b53f1365</rate-plan-code>
+    <landing-url>http://www.integration2.testaroom.com/hotels/d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8?affiliate=6dcb11d2&amp;check_in=05/07/2017&amp;check_out=05/12/2017&amp;currency=USD&amp;price_code=693d98c4d1&amp;rate_code=3dc8a5bea5&amp;rinfo=%5B%5B18%5D%5D</landing-url>
+  </room-stay>
+  <room-stay>
+    <room>
+      <hotel-id>d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8</hotel-id>
+      <room-id>8478fbbc-3ce3-53f1-b729-65d3620c2e27</room-id>
+      <title xml:lang="en">West Tower Deluxe Queen Room</title>
+      <description/>
+    </room>
+    <commission-tier>3</commission-tier>
+    <sale>false</sale>
+    <promotional-text xsi:nil="true"/>
+    <promotion-details xsi:nil="true"/>
+    <value-adds>
+      <value-add>
+        <code>free_cancellation</code>
+        <name xml:lang="en">Free Cancellation</name>
+      </value-add>
+    </value-adds>
+    <rooms-left xsi:nil="true"/>
+    <timed-pressure-sell xsi:nil="true"/>
+    <expires-at xsi:nil="true"/>
+    <restrictions xsi:nil="true"/>
+    <geo-restrictions xsi:nil="true"/>
+    <lowest-average>34.75</lowest-average>
+    <fees-collected-at-property>
+      <fee>
+        <name xml:lang="en">Resort Fee per Night</name>
+        <amount>24.00</amount>
+        <total>120.00</total>
+        <currency>USD</currency>
+        <description xsi:nil="true"/>
+      </fee>
+    </fees-collected-at-property>
+    <display-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>173.75</subtotal>
+      <taxes>63.20</taxes>
+      <fees>0.00</fees>
+      <total>236.95</total>
+      <lowest-average>34.75</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </display-pricing>
+    <booking-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>173.75</subtotal>
+      <taxes>63.20</taxes>
+      <fees>0.00</fees>
+      <total>236.95</total>
+      <lowest-average>34.75</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>34.75</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </booking-pricing>
+    <rate-plan-type>unpublished2</rate-plan-type>
+    <rate-plan-code>1,4d2b3f017463ac2d90000003,514972293ce7b24ff6cf5828e0d61eaac9f714f7</rate-plan-code>
+    <landing-url>http://www.integration2.testaroom.com/hotels/d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8?affiliate=6dcb11d2&amp;check_in=05/07/2017&amp;check_out=05/12/2017&amp;currency=USD&amp;price_code=3190571d3c&amp;rate_code=7da404bf1c&amp;rinfo=%5B%5B18%5D%5D</landing-url>
+  </room-stay>
+  <room-stay>
+    <room>
+      <hotel-id>d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8</hotel-id>
+      <room-id>f5f11b8d-15c6-5c82-8623-d5fe92f3be74</room-id>
+      <title xml:lang="en">Casino Tower Deluxe Queen Room</title>
+      <description/>
+    </room>
+    <commission-tier>3</commission-tier>
+    <sale>false</sale>
+    <promotional-text xsi:nil="true"/>
+    <promotion-details xsi:nil="true"/>
+    <value-adds>
+      <value-add>
+        <code>free_cancellation</code>
+        <name xml:lang="en">Free Cancellation</name>
+      </value-add>
+    </value-adds>
+    <rooms-left xsi:nil="true"/>
+    <timed-pressure-sell xsi:nil="true"/>
+    <expires-at xsi:nil="true"/>
+    <restrictions xsi:nil="true"/>
+    <geo-restrictions xsi:nil="true"/>
+    <lowest-average>37.42</lowest-average>
+    <fees-collected-at-property>
+      <fee>
+        <name xml:lang="en">Resort Fee per Night</name>
+        <amount>24.00</amount>
+        <total>120.00</total>
+        <currency>USD</currency>
+        <description xsi:nil="true"/>
+      </fee>
+    </fees-collected-at-property>
+    <display-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>187.10</subtotal>
+      <taxes>65.00</taxes>
+      <fees>0.00</fees>
+      <total>252.10</total>
+      <lowest-average>37.42</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>37.42</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>37.42</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>37.42</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>37.42</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>37.42</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </display-pricing>
+    <booking-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>187.10</subtotal>
+      <taxes>65.00</taxes>
+      <fees>0.00</fees>
+      <total>252.10</total>
+      <lowest-average>37.42</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>37.42</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>37.42</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>37.42</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>37.42</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>37.42</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </booking-pricing>
+    <rate-plan-type>unpublished2</rate-plan-type>
+    <rate-plan-code>1,4d2b3f017463ac2d90000003,3fe26fe594603c0c76b3d0dea80a7666be3d7282</rate-plan-code>
+    <landing-url>http://www.integration2.testaroom.com/hotels/d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8?affiliate=6dcb11d2&amp;check_in=05/07/2017&amp;check_out=05/12/2017&amp;currency=USD&amp;price_code=e6a75c002c&amp;rate_code=4ce9761db8&amp;rinfo=%5B%5B18%5D%5D</landing-url>
+  </room-stay>
+  <room-stay>
+    <room>
+      <hotel-id>d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8</hotel-id>
+      <room-id>fc6c9228-feb6-5923-b0a0-8b052b6397c1</room-id>
+      <title xml:lang="en">Leisure West Tower Deluxe King</title>
+      <description/>
+    </room>
+    <commission-tier>3</commission-tier>
+    <sale>false</sale>
+    <promotional-text xsi:nil="true"/>
+    <promotion-details xsi:nil="true"/>
+    <value-adds>
+      <value-add>
+        <code>free_cancellation</code>
+        <name xml:lang="en">Free Cancellation</name>
+      </value-add>
+    </value-adds>
+    <rooms-left xsi:nil="true"/>
+    <timed-pressure-sell xsi:nil="true"/>
+    <expires-at xsi:nil="true"/>
+    <restrictions xsi:nil="true"/>
+    <geo-restrictions xsi:nil="true"/>
+    <lowest-average>38.61</lowest-average>
+    <fees-collected-at-property>
+      <fee>
+        <name xml:lang="en">Resort Fee per Night</name>
+        <amount>24.00</amount>
+        <total>120.00</total>
+        <currency>USD</currency>
+        <description xsi:nil="true"/>
+      </fee>
+    </fees-collected-at-property>
+    <display-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>193.05</subtotal>
+      <taxes>65.90</taxes>
+      <fees>0.00</fees>
+      <total>258.95</total>
+      <lowest-average>38.61</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>38.61</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>38.61</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>38.61</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>38.61</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>38.61</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </display-pricing>
+    <booking-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>193.05</subtotal>
+      <taxes>65.90</taxes>
+      <fees>0.00</fees>
+      <total>258.95</total>
+      <lowest-average>38.61</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>38.61</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>38.61</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>38.61</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>38.61</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>38.61</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </booking-pricing>
+    <rate-plan-type>unpublished2</rate-plan-type>
+    <rate-plan-code>1,4d2b3f017463ac2d90000003,31168b69a0279bcce0f42341cb13451b9bc94fe2</rate-plan-code>
+    <landing-url>http://www.integration2.testaroom.com/hotels/d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8?affiliate=6dcb11d2&amp;check_in=05/07/2017&amp;check_out=05/12/2017&amp;currency=USD&amp;price_code=8765422a36&amp;rate_code=8df08626d1&amp;rinfo=%5B%5B18%5D%5D</landing-url>
+  </room-stay>
+  <room-stay>
+    <room>
+      <hotel-id>d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8</hotel-id>
+      <room-id>203af6da-9d40-57bf-aa2b-54403d6909e3</room-id>
+      <title xml:lang="en">Leisure West Tower Deluxe Queen</title>
+      <description/>
+    </room>
+    <commission-tier>3</commission-tier>
+    <sale>false</sale>
+    <promotional-text xsi:nil="true"/>
+    <promotion-details xsi:nil="true"/>
+    <value-adds>
+      <value-add>
+        <code>free_cancellation</code>
+        <name xml:lang="en">Free Cancellation</name>
+      </value-add>
+    </value-adds>
+    <rooms-left xsi:nil="true"/>
+    <timed-pressure-sell xsi:nil="true"/>
+    <expires-at xsi:nil="true"/>
+    <restrictions xsi:nil="true"/>
+    <geo-restrictions xsi:nil="true"/>
+    <lowest-average>40.87</lowest-average>
+    <fees-collected-at-property>
+      <fee>
+        <name xml:lang="en">Resort Fee per Night</name>
+        <amount>24.00</amount>
+        <total>120.00</total>
+        <currency>USD</currency>
+        <description xsi:nil="true"/>
+      </fee>
+    </fees-collected-at-property>
+    <display-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>204.35</subtotal>
+      <taxes>67.45</taxes>
+      <fees>0.00</fees>
+      <total>271.80</total>
+      <lowest-average>40.87</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>40.87</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>40.87</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>40.87</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>40.87</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>40.87</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </display-pricing>
+    <booking-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>204.35</subtotal>
+      <taxes>67.45</taxes>
+      <fees>0.00</fees>
+      <total>271.80</total>
+      <lowest-average>40.87</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>40.87</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>40.87</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>40.87</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>40.87</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>40.87</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </booking-pricing>
+    <rate-plan-type>unpublished2</rate-plan-type>
+    <rate-plan-code>1,4d2b3f017463ac2d90000003,a02216313d5dcc2ed0720baef8ac3999a0ce79b1</rate-plan-code>
+    <landing-url>http://www.integration2.testaroom.com/hotels/d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8?affiliate=6dcb11d2&amp;check_in=05/07/2017&amp;check_out=05/12/2017&amp;currency=USD&amp;price_code=baec279837&amp;rate_code=4a86d4cc05&amp;rinfo=%5B%5B18%5D%5D</landing-url>
+  </room-stay>
+  <room-stay>
+    <room>
+      <hotel-id>d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8</hotel-id>
+      <room-id>6383580e-d8dd-5707-b64b-e2f2c0be2d38</room-id>
+      <title xml:lang="en">Leisure Casino Tower Deluxe Room</title>
+      <description/>
+    </room>
+    <commission-tier>3</commission-tier>
+    <sale>false</sale>
+    <promotional-text xsi:nil="true"/>
+    <promotion-details xsi:nil="true"/>
+    <value-adds>
+      <value-add>
+        <code>free_cancellation</code>
+        <name xml:lang="en">Free Cancellation</name>
+      </value-add>
+    </value-adds>
+    <rooms-left xsi:nil="true"/>
+    <timed-pressure-sell xsi:nil="true"/>
+    <expires-at xsi:nil="true"/>
+    <restrictions xsi:nil="true"/>
+    <geo-restrictions xsi:nil="true"/>
+    <lowest-average>44.27</lowest-average>
+    <fees-collected-at-property>
+      <fee>
+        <name xml:lang="en">Resort Fee per Night</name>
+        <amount>24.00</amount>
+        <total>120.00</total>
+        <currency>USD</currency>
+        <description xsi:nil="true"/>
+      </fee>
+    </fees-collected-at-property>
+    <display-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>221.35</subtotal>
+      <taxes>69.70</taxes>
+      <fees>0.00</fees>
+      <total>291.05</total>
+      <lowest-average>44.27</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>44.27</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>44.27</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>44.27</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>44.27</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>44.27</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </display-pricing>
+    <booking-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>221.35</subtotal>
+      <taxes>69.70</taxes>
+      <fees>0.00</fees>
+      <total>291.05</total>
+      <lowest-average>44.27</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>44.27</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>44.27</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>44.27</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>44.27</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>44.27</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </booking-pricing>
+    <rate-plan-type>unpublished2</rate-plan-type>
+    <rate-plan-code>1,4d2b3f017463ac2d90000003,5d7b980ab5aba18d00be3bd03df4fd23544496bf</rate-plan-code>
+    <landing-url>http://www.integration2.testaroom.com/hotels/d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8?affiliate=6dcb11d2&amp;check_in=05/07/2017&amp;check_out=05/12/2017&amp;currency=USD&amp;price_code=4d68c89ead&amp;rate_code=5854d2e7db&amp;rinfo=%5B%5B18%5D%5D</landing-url>
+  </room-stay>
+  <room-stay>
+    <room>
+      <hotel-id>d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8</hotel-id>
+      <room-id>c4533de1-b167-528b-bc8a-0d008521638e</room-id>
+      <title xml:lang="en">Leisure Casino Tower Deluxe Queen</title>
+      <description/>
+    </room>
+    <commission-tier>3</commission-tier>
+    <sale>false</sale>
+    <promotional-text xsi:nil="true"/>
+    <promotion-details xsi:nil="true"/>
+    <value-adds>
+      <value-add>
+        <code>free_cancellation</code>
+        <name xml:lang="en">Free Cancellation</name>
+      </value-add>
+    </value-adds>
+    <rooms-left xsi:nil="true"/>
+    <timed-pressure-sell xsi:nil="true"/>
+    <expires-at xsi:nil="true"/>
+    <restrictions xsi:nil="true"/>
+    <geo-restrictions xsi:nil="true"/>
+    <lowest-average>46.56</lowest-average>
+    <fees-collected-at-property>
+      <fee>
+        <name xml:lang="en">Resort Fee per Night</name>
+        <amount>24.00</amount>
+        <total>120.00</total>
+        <currency>USD</currency>
+        <description xsi:nil="true"/>
+      </fee>
+    </fees-collected-at-property>
+    <display-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>232.80</subtotal>
+      <taxes>71.15</taxes>
+      <fees>0.00</fees>
+      <total>303.95</total>
+      <lowest-average>46.56</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>46.56</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>46.56</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>46.56</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>46.56</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>46.56</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </display-pricing>
+    <booking-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>232.80</subtotal>
+      <taxes>71.15</taxes>
+      <fees>0.00</fees>
+      <total>303.95</total>
+      <lowest-average>46.56</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>46.56</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>46.56</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>46.56</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>46.56</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>46.56</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </booking-pricing>
+    <rate-plan-type>unpublished2</rate-plan-type>
+    <rate-plan-code>1,4d2b3f017463ac2d90000003,7361ffa7fe89e5780979c6414344a12bce2ac0dd</rate-plan-code>
+    <landing-url>http://www.integration2.testaroom.com/hotels/d4b5bc60-1c9c-4e10-b8bd-cc6f6a1a08a8?affiliate=6dcb11d2&amp;check_in=05/07/2017&amp;check_out=05/12/2017&amp;currency=USD&amp;price_code=33f157dfd2&amp;rate_code=9399d02d10&amp;rinfo=%5B%5B18%5D%5D</landing-url>
+  </room-stay>
+  <room-stay>
+    <room>
+      <hotel-id>480a6e89-4ba2-5677-b1b6-121fbdc5cd2b</hotel-id>
+      <room-id>bd828f0c-972f-57f6-b7d0-8639899749fa</room-id>
+      <title xml:lang="en">Room, Non Smoking, Refrigerator &amp;amp; Microwave - Stay 3 Nights Save 20 Percent</title>
+      <description/>
+    </room>
+    <commission-tier>5</commission-tier>
+    <sale>true</sale>
+    <promotional-text>Sale! Save 20% on this Stay.</promotional-text>
+    <promotion-details xsi:nil="true"/>
+    <value-adds>
+      <value-add>
+        <code>free_cancellation</code>
+        <name xml:lang="en">Free Cancellation</name>
+      </value-add>
+    </value-adds>
+    <rooms-left xsi:nil="true"/>
+    <timed-pressure-sell xsi:nil="true"/>
+    <expires-at xsi:nil="true"/>
+    <restrictions xsi:nil="true"/>
+    <geo-restrictions xsi:nil="true"/>
+    <lowest-average>78.17</lowest-average>
+    <fees-collected-at-property xsi:nil="true"/>
+    <display-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>390.85</subtotal>
+      <taxes>70.15</taxes>
+      <fees>0.00</fees>
+      <total>461.00</total>
+      <lowest-average>78.17</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>78.17</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>78.17</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>78.17</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>78.17</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>78.17</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </display-pricing>
+    <booking-pricing>
+      <original-average xsi:nil="true"/>
+      <subtotal>390.85</subtotal>
+      <taxes>70.15</taxes>
+      <fees>0.00</fees>
+      <total>461.00</total>
+      <lowest-average>78.17</lowest-average>
+      <currency>USD</currency>
+      <nightly-rates>
+        <nightly-rate>
+          <date>05/07/2017</date>
+          <rate>78.17</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/08/2017</date>
+          <rate>78.17</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/09/2017</date>
+          <rate>78.17</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/10/2017</date>
+          <rate>78.17</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+        <nightly-rate>
+          <date>05/11/2017</date>
+          <rate>78.17</rate>
+          <original-rate xsi:nil="true"/>
+        </nightly-rate>
+      </nightly-rates>
+    </booking-pricing>
+    <rate-plan-type>public</rate-plan-type>
+    <rate-plan-code>4,4ea45af5d509492915000004,028JA2ctMTFN5YMuJVb6owCxI6g-I-z43vUWWkiynTo</rate-plan-code>
+    <landing-url>http://www.integration2.testaroom.com/hotels/480a6e89-4ba2-5677-b1b6-121fbdc5cd2b?affiliate=6dcb11d2&amp;check_in=05/07/2017&amp;check_out=05/12/2017&amp;currency=USD&amp;price_code=d323e55270&amp;rate_code=bd1dd0fa94&amp;rinfo=%5B%5B18%5D%5D</landing-url>
+  </room-stay>
+</room-stays>

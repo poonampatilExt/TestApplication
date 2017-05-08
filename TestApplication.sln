@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{16CB01D4-0287-4E0E-BC32-A750B51C2529}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9C5585C0-DD56-460B-B04F-0DC98F285B1E}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TestApplication", "src\Travel.Connectors.Hotel\TestApplication.xproj", "{F4EB75F1-FA09-4EA8-BC74-8523179A3989}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		local|Any CPU = local|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4EB75F1-FA09-4EA8-BC74-8523179A3989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EB75F1-FA09-4EA8-BC74-8523179A3989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4EB75F1-FA09-4EA8-BC74-8523179A3989}.local|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EB75F1-FA09-4EA8-BC74-8523179A3989}.local|Any CPU.Build.0 = Debug|Any CPU
+		{F4EB75F1-FA09-4EA8-BC74-8523179A3989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4EB75F1-FA09-4EA8-BC74-8523179A3989}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F4EB75F1-FA09-4EA8-BC74-8523179A3989} = {16CB01D4-0287-4E0E-BC32-A750B51C2529}
+	EndGlobalSection
+EndGlobal
