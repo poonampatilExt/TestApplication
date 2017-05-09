@@ -17,7 +17,7 @@ namespace Travel.Connectors.Hotel.Controllers
         [HttpGet("{id}")]
         public string Get(int id)
         {
-            return "value123";
+            return "value1234";
         }
 
         // POST api/values
