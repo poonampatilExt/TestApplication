@@ -10,7 +10,7 @@ namespace Travel.Connectors.Hotel.Controllers
         [HttpGet]
         public IEnumerable<string> Get(string test)
         {
-            return new string[] { "value1", "valf" };
+            return new string[] { "value1", "value123" };
         }
 
         // GET api/values/5
