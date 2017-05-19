@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
+using System.IO;
+using System.Text;
 
 namespace Travel.Connectors.Hotel.Controllers
 {
@@ -10,7 +12,7 @@ namespace Travel.Connectors.Hotel.Controllers
         [HttpGet]
         public IEnumerable<string> Get(string test)
         {
-            return new string[] { "value1", "value2 result", "sf"};
+            return new string[] { "value1", "value2 result"};
         }
 
         // GET api/values/5
@@ -22,20 +24,37 @@ namespace Travel.Connectors.Hotel.Controllers
 
         // POST api/values
         [HttpPost]
-        public void Post([FromBody]string value)
+        public string Post()
         {
+            string requestBody = string.Empty;
+            using (var streamReader = new StreamReader(HttpContext.Request.Body))
+            {
+                requestBody = streamReader.ReadToEnd();
+                byte[] requestData = Encoding.UTF8.GetBytes(requestBody);
+                HttpContext.Request.Body = new MemoryStream(requestData);
+            }
+            return requestBody;
         }
 
         // PUT api/values/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody]string value)
+        public string Put()
         {
+            string requestBody = string.Empty;
+            using (var streamReader = new StreamReader(HttpContext.Request.Body))
+            {
+                requestBody = streamReader.ReadToEnd();
+                byte[] requestData = Encoding.UTF8.GetBytes(requestBody);
+                HttpContext.Request.Body = new MemoryStream(requestData);
+            }
+            return requestBody;
         }
 
         // DELETE api/values/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public int  Delete(int id)
         {
+            return id;
         }
     }
 }
